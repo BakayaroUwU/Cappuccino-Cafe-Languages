@@ -326,16 +326,16 @@
 		<text id="cookstep blackforestcherrycake1" name="Mixer les ingrédients" />
 		<text id="cookstep_spanishsomelette1" name="Mixer les œufs" />
 		<text id="cookstep_spanishsomelette2" name="Rendre l’omelette belle" />
-		<text id="cookstep_applepie1" name="Building pies" />
-		<text id="cookstep_applepie2" name="Baking pies" />
-		<text id="cookstep_ramen1" name="Boiling pasta" />
-		<text id="cookstep_ramen2" name="Adding spices" />
-		<text id="cookstep_corncake1" name="Mixing ingredients" />
-		<text id="cookstep_corncake2" name="Baking cakes" />
-		<text id="cookstep_feijoada1" name="Prepping pork cuts" />
-		<text id="cookstep_feijoada2" name="Manifesting orange slices" />
-		<text id="cookstep_spanishomelette1" name="Mixing huevos" />
-		<text id="cookstep_spanishomelette2" name="Making the omelette bonito" />
+		<text id="cookstep_applepie1" name="Faire la tourte" />
+		<text id="cookstep_applepie2" name="Cuire la tarte" />
+		<text id="cookstep_ramen1" name="Bouillir les pâtes" />
+		<text id="cookstep_ramen2" name="Ajouter des épices" />
+		<text id="cookstep_corncake1" name="Mixer les ingrédients" />
+		<text id="cookstep_corncake2" name="Cuire le cake" />
+		<text id="cookstep_feijoada1" name="Préparer les morceaux de porcs" />
+		<text id="cookstep_feijoada2" name="Manifester les tranches d'oranges" />
+		<text id="cookstep_spanishomelette1" name="Mixer les huevos" />
+		<text id="cookstep_spanishomelette2" name="Faire les bonito omelettes" />
 	</cookstep>
 	<coopmission>
 		<text id="coop_desc_long_1" name="Nous organisons un cours de cuisine pour perfectionner quelques plats, veux-tu y participer ?" />
@@ -1249,27 +1249,27 @@
 		<text id="preparestep_spanishomelette_potato" name="Éplucher les patates" />
 		<text id="preparestep_spanishomelette_onion" name="Découper les oignons" />
 		<text id="preparestep_spanishomelette_eggs" name="Casser les œufs en espagnol" />
-		<text id="preparestep_applepie_cream" name="Whip cream" />
-		<text id="preparestep_applepie_eggs" name="Crack eggs elegantly" />
-		<text id="preparestep_applepie_flour" name="Measure flour" />
-		<text id="preparestep_applepie_apple" name="Think about apple economy" />
-		<text id="preparestep_applepie_cinnamon" name="Add cinnamon" />
-		<text id="preparestep_ramen_pasta" name="Boil pasta" />
-		<text id="preparestep_ramen_eggs" name="Boil eggs" />
-		<text id="preparestep_ramen_bacon" name="Chop bacon" />
-		<text id="preparestep_ramen_chili" name="Make it spicy" />
-		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
-		<text id="preparestep_corncake_butter" name="Melt butter" />
-		<text id="preparestep_corncake_eggs" name="Mix eggs" />
-		<text id="preparestep_corncake_milk" name="Add milk" />
-		<text id="preparestep_corncake_sugar" name="Mix sugar in the dough" />
-		<text id="preparestep_corncake_cinnamon" name="Add cinnamon" />
-		<text id="preparestep_feijoada_beans" name="Boil beans" />
-		<text id="preparestep_feijoada_bacon" name="Chop bacon chunks" />
-		<text id="preparestep_feijoada_sausages" name="Cut sausages" />
-		<text id="preparestep_feijoada_onion" name="Chop onions" />
-		<text id="preparestep_feijoada_garlic" name="Toss garlic in" />
-		<text id="preparestep_feijoada_coriander" name="Add coriander" />
+		<text id="preparestep_applepie_cream" name="Fouetter la crème" />
+		<text id="preparestep_applepie_eggs" name="Craquer les oeufs élégament" />
+		<text id="preparestep_applepie_flour" name="Mesurer la farine" />
+		<text id="preparestep_applepie_apple" name="Penser à l'économie de la pomme" />
+		<text id="preparestep_applepie_cinnamon" name="Ajouter de la cannelle" />
+		<text id="preparestep_ramen_pasta" name="Bouillir les pâtes" />
+		<text id="preparestep_ramen_eggs" name="Bouillir les oeufs" />
+		<text id="preparestep_ramen_bacon" name="Couper le bacon en petits morceaux" />
+		<text id="preparestep_ramen_chili" name="Le faire épicer" />
+		<text id="preparestep_corncake_sweetcorn" name="Faire des cornflakes" />
+		<text id="preparestep_corncake_butter" name="Faire fondre le beurre" />
+		<text id="preparestep_corncake_eggs" name="Mixer les oeufs" />
+		<text id="preparestep_corncake_milk" name="Ajouter du lait" />
+		<text id="preparestep_corncake_sugar" name="Mixer le sucre dans la pâte" />
+		<text id="preparestep_corncake_cinnamon" name="Ajouter la cannelle" />
+		<text id="preparestep_feijoada_beans" name="Bouillir les haricots" />
+		<text id="preparestep_feijoada_bacon" name="Couper les tranches en bacon en petits morceaux" />
+		<text id="preparestep_feijoada_sausages" name="Couper les saucisses" />
+		<text id="preparestep_feijoada_onion" name="Couper les oignons en petits morceaux" />
+		<text id="preparestep_feijoada_garlic" name="Y mettre l'ail dedans" />
+		<text id="preparestep_feijoada_coriander" name="Ajouter du coriandre" />
 	</preparestep>
 	<preparestep_fancy>
 		<text id="preparestep_bananasplit_vanilla" name="Ecosser la vanille" />
